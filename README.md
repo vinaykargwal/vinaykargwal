@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vinaykargwal
-- 👀 I’m interested in ...Learn Python and Java/Kotlin and be master in java/kotlin 
+- 👀 I’m interested in ...Learn Python
 - 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Python Projects
 - 📫 How to reach me ...
 
 <!---
